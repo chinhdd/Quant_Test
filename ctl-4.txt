@@ -46,12 +46,12 @@ Catalog - [Anti-virus software sales support system]
 
     [Answer] 
 	There are many activities in whole sale process, but we can gather it to three group activities as below.
-	- Pre-sale activities (marked as PS)
-	- Sale activities (marked as SL)
-	- Post-sale activities (marked as PO)
+	- Pre-sale activities 
+	- Sale activities 
+	- Post-sale activities 
 	
 	We will describe detail work of each person mapping to each activity process.
-	# Pre-sale activities (PS)
+	# Pre-sale activities 
 	
 	We assume that there is a long list of prospect customers which might be the result of marketting department. It must contain some information about customer as below.
 	1. Organization name
@@ -106,7 +106,7 @@ Catalog - [Anti-virus software sales support system]
 		All those questions can be input or modified by sale representative. After conducting a seminar, they have to update seminar result as well as prospect's information from gathering answers from them.
 		Some questions and some criteria in BANT may not be fill completely in pre-sale and sale representative has to find out more detail in next activities.
 		
-	# Sale activities (SL)
+	# Sale activities 
 	
 	* Sale representative
 		1. Prepare before calling the customer
@@ -139,6 +139,17 @@ Catalog - [Anti-virus software sales support system]
 		    + I don't think Kaspersky anti-virus software is good for us. What is the most benefit feature in it?
 		    + We have used XYZ anti-virus for many years. Why should we change?
 		    + The expiration date of our current anti-virus software is 3 months later. We are planing to renew it.
+		- From some reference about famous company whose business is quite the same as customer company and current using Kaspersky product, sale representative can persuade the customer consider buying our product.
+		- Because Kaspersky is quite famous product, the customers may ask about quotation while calling to estimate our price is good enough. They may later check the price from manufacturer or other reseller to compare our price is cheaper or not. Some questions about investigate our price such as
+		    + We need anti-virus software for 30 computers, 2 file servers and about 10 to 15 smart phones. How much is all these?
+		    + We are going to buy anti-virus software for about 250 to 280 desktops, 50 laptops, 2 file servers, 1 mail server. What is the cost of all these?
+		 - It's better if sale representative reply the price of customer's requirement immediately at the calling time and the price is cheap enough for customer to think about buy our products and not buy from other resellers.
+		 - The customer may ask some questions about requirement related to IT such as
+		    + Is it protect our computers from block website?
+		    + It has firewall proctection, isn't it?
+		    + Does mail server security has feature filter emails contain advertising or spam mail?
+		    + Can we use Kaspersky desktop security software for both file server and mail server? What is the difference between them?
+		- It would be better if sale representative could answer almost requirement of the customer. Of course, sale representative can take note some difficult question and ask the customer to wait for technical officer to answer. All those questions should be noted by sale repsentative and transfer to technical officer or official call center of Kaspersky in the country.
 		3. After calling to customer
 		- Update result of that call, it is successful or fail.
 		- Update their own working calendar, consider about all seminar events, time calling to customer, time meeting to customer, department weekly meeting.
@@ -157,11 +168,9 @@ Catalog - [Anti-virus software sales support system]
 		7. Discuss with sale manager for quotation of customer requirement.
 		- Quotations should meet customer's need and requirement.
 		- Price may depend on fame of customer and number of requirement option.
-		8. Send quotation to customer and get feedback
-		- Get feedback from customer
-		- May have a meeting with customer more to discuss about requirement, deliver time, etc.
-		- Update feedback from customer about quotation.
-		- Because Kaspersky brand is worldwide, the customer can search the price of the product easily and may consider before meeting stage.
+		8. Send quotation to customer
+		- Actually price may be dealed at the calling stage. At this stage, sale representative send official document with that price to the customer.
+		- The customer may feedback and negotiate again before they decide to sign the contract.
 		9. Discuss with sale manager about contract and deliver time to that customer
 		- Based on quotation and customer feedback, make a report and send to sale manager.
 		- Sale manager is responsible for making the contract and send it to sale representative.
