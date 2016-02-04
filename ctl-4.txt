@@ -1,0 +1,567 @@
+Catalog - [Anti-virus software sales support system]
+======
+
+**Your Name:** [Dao Duc Chinh]
+
+**Submission number:** [3]
+
+**Last-Modified Date:** [27 Jan 2016]
+
+---
+
+## Chapter 1 - Describe the business situation of 'R&D3' with "5W1H"
+**1. What is your business model? Describe industry, product, client, company size etc.**
+
+    [Answer]
+	Business industry: anti-virus software for PC or smart phone.
+	Product: anti-virus software product of one well-known brand. We sell all kinds software products of only one brand, in this case we sell all products of Kaspersky anti-virus. It contains of four main core products as below
+	1. Kaspersky for PCs with Internet Security: advanced security technologies protect against viruses & web-based threats, while also safeguarding your identity and adding extra layers of security when you’re online on the Internet.
+	2. Kaspersky Security for Smartphone: to protect confidential data on corporate mobile devices from loss, theft, unauthorized access and malware, wherever your employees travel.
+	3. Kaspersky Security for File Server: protects data stored on file servers from all types of malicious programs, it maintains high reliability and meet the exacting demands of corporate servers that carry heavy loads.
+	4. Kaspersky Security for Mail Server: protects mail servers and groupware servers from malicious programs and spam, it can also be used to set up a dedicated mail gateway.
+	
+	We focus on selling package product to companies or organization. Each packages product may consists of many above items. The software licence of product might be for one year, two years or three years.
+	
+	Client: All business companies or organizations. We divide cliens into 9 groups as below.
+	1. Finance & Legal
+	2. Car & Automotive
+	3. Public Sector
+	4. Health care
+	5. Energy
+	6. IT & Telecoms
+	7. Manufacturing
+	8. Media, Press & TV
+	9. Transport
+
+	Company size: This is local company in one country where Kaspersky is not popular anti-virus software. The company has one main headquarter and many sale branches.
+		
+**2. Who do you think would be involved in your business? List up role, person, or group as many as possible.**
+
+    [Answer] 
+	1. Sale representative, those who contact directly to the customer and discuss with them about everything related to product requirement and sale process.
+	2. Sale manager, those who monitor all sale process at one branch, check sale performance of each sale representative and how to help them improve sale activities.
+	3. Sale director, those who might be on top of entire sale activities in the company, manage sale performance at all sale branches.
+
+**3. Describe each of their work flow: WHAT are they responsible for? WHEN, WHERE and WHAT do they work?**
+
+    [Answer] 
+	There are many activities in whole sale process, but we can gather it to three group activities as below.
+	- Pre-sale activities (marked as PS)
+	- Sale activities (marked as SL)
+	- Post-sale activities (marked as PO)
+	
+	We will describe detail work of each person mapping to each activity process.
+	# Pre-sale activities (PS)
+	
+	We assume that there is a long list of prospect customers which might be the result of marketting department. It must contain some information about customer as below.
+	1. Organization name
+    2. Organization type (one of nine types described above, those are finance & legal, car & automotive, public sector, health care, energy, IT & telecoms, manufacturing, media & TV and transport)
+	3. Organization address
+	4. At least one contact person in the organization
+	5. Person's contact information such as name, gender, phone number, email.
+	List of prospect customers should be inputed before sale activities.
+
+	* Sale director
+		1. Set sale target for each sale branch, it might contain the number of sale closing (or the number of deal), the total volume value of sale (it equals to sum of volume in each closing sale). The sale target may depend on the number of sale employee in each branch and it contains duration time such as one month, one quarter or one year.
+		2. Distribute list of all prospect customer to all sale branches, usually depend on address of branch should be near to address of customer's organization.
+		
+	* Sale 	manager
+		1. Distribute list of all prospect customer in that branch to every sale representative. At first, he/she can distribute uniform the list to every sale representative without considering organization type. However, after some time working together, he/she may want to distribute the list to sale representatives which may be their advantage and they can sell with best effort and effectiveness.
+		2. Set sale target for each of sale representative, it might contain the number of deal, the total sale volume. He or she can set different target for each sale representative or the same for all. The sale target duration is usually set up for one week, one month, one quarter or longer.
+		3. Set the rule of selling. In this case we sell anti-virus software which might get directly from manufacturer or other reseller. As many items we sold, as more surplus percent we get. For example, by sold product under 200$, we get 10% of the total order; by sold product from 200$ to 500$, we get 20% of the total order; and sold product above 500$, we get 30% of the order. And for each sale closing contract, sale representative has to keep at least 50$ as the basic cost for calling, email, electricity, etc, the remaining is profit of company. All these rules should be defined in advance by sale manager.
+		
+	* Sale representative
+		1. Receive their own list prospects and prioritize people follows their own opinion.
+		2. Qualify the prospect customer by some approach
+		- Send email to prospect to fill in form which has some questions to qualify their need and requirement.
+		- Conduct a seminar about product and invite all prospects to attend and fill in form which has some questions to qualify their need and requirement.
+		
+		Some questions prepared should cover BANT criteria (Budget, Authority, Need, Timing)
+		- Budget (B): How to know from prospect that there could be a budget created for anti-virus software or they have just made enterprise anti-virus software purchased in last few months.
+		Some questions may be as below.
+			+ Is there any anti-virus software used in your organization/company? Is it free version or paid version? (Y/N)
+			+ Do you know the benefit of paid anti-virus software? Do your company plan to use paid version in next few months? (Y/N)
+			+ If your company has already used paid anti-virus software, please tell me what is software name? (Text)
+			+ If your company is using Kaspersky anti-virus paid version, could you tell me the expiration date? (Text)
+		- Authority (A): There is at least one contact that is interested in solving the problem related to software security, maybe he is director or above. This kind of question usually should be asked while calling or meeting. 
+		Some questions may be as below.
+			+ What is the deparment name you are working in? (IT/HR/Finance/Management/Others)
+			+ Is there other person consider about buying paid anti-virus software? (Y/N)
+			+ Who may also decide which anti-virus software should buy? (Text)
+		- Need (N): Determine whether the prospect company is facing the problem about software security and need solution.
+		Some questions may be as below.
+			+ Is there any people in your company facing issue related to computer virus or software security? (Y/N)
+			+ Do you know free version of anti-virus softwares usually do not update latest current dangerous virus? What happened if some data is lost or damaged? Do you want direct support from anti-virus specialist? (Y/N)
+		- Timing (T): Determine when prospect company really wants solution for software security.
+		Some questions may be as below.
+			+ If your company has already used paid anti-virus software, could you please tell me what is software name and what is expiration date? (Text)
+	
+        For anti-virus software product, the customers always want to be best protected when they pay for use it. Because of that, we provide some reference to famous company whose business is quite the same and current using the software product. There are some companies as below.
+        1. Finance & Legal: BRAC is the largest NGO in the world, it has number of employee nearly 120,000 people in 10 countries in Asia and Africa helping an estimated 138 million people to escape from poverty.
+        2. Car & Automotive: LKQ is a fortune 500 business and North Ameria's largest supplier of a huge range of alternative replacement components for vehicle repairs. Its headquarter in Chicago, USA and it has 23,000 employees worldwide.
+        And some more examples for each type of organization.
+
+        One characteristic of anti-virus software is sometimes the customers don't know completely about the product they are using, how many features it covers and whether it is enough for their need. Sale representative should prepare for any customer's requirement if he/she ask while calling or meeting.
+        
+		All those questions can be input or modified by sale representative. After conducting a seminar, they have to update seminar result as well as prospect's information from gathering answers from them.
+		Some questions and some criteria in BANT may not be fill completely in pre-sale and sale representative has to find out more detail in next activities.
+		
+	# Sale activities (SL)
+	
+	* Sale representative
+		1. Prepare before calling the customer
+		- Introduction about the company and product. Those information should be inputed before by sale manager or sale representative.
+		- Prepare some questions and answers what should be asked next.
+		Those questions may find out more BANT criteria, for example as below.
+		Can you spare me a moment to talk?
+		If no, (connected unsuccessfully)
+			Sorry for bothering you, may I call you later? What time is good for you?
+			About 10 am this Friday.
+			Okay, (sale representative should check their own calendar and find that time is good for them or not), thanks. I will contact you at that time. (Sale representative should add that event to their own calendar)
+		If yes, (connected successfully)
+			Is there any anti-virus software used in your organization/company? Is it free version or paid version? (Budget)
+			If no, (Budget - not okay)
+				Do you know the benefit of paid anti-virus software? Do your company plan to use paid version in next few months? (Budget - Need)
+				If no, (Budget - not okay)
+					Is there any people in your company facing issue related to computer virus or software security? (Need)
+                    etc.
+				If yes, (Budget - okay)
+					What is the deparment name you are working in? (Authority)
+					etc.
+			If yes, (Budget - okay)
+				Ask something.
+		2. While calling to customer
+		- Talk and ask some questions which has been prepared.
+		- Take note every specific statement or requirement the customer said.
+		- It should be better if sale representative can answer almost customer's requirement at that moment. Normally the question of customer will related to anti-virus software and Kaspersky brand such as
+		    + We have already used free anti-virus software and it's okay. Why should we buy paid one?
+		    + We have already used paid anti-virus software of brand XYZ. I think it's better than Kaspersky.
+		    + I don't think Kaspersky anti-virus software is good for us. What is the most benefit feature in it?
+		    + We have used XYZ anti-virus for many years. Why should we change?
+		    + The expiration date of our current anti-virus software is 3 months later. We are planing to renew it.
+		3. After calling to customer
+		- Update result of that call, it is successful or fail.
+		- Update their own working calendar, consider about all seminar events, time calling to customer, time meeting to customer, department weekly meeting.
+		- It should be better if while calling sale representative can check and set meeting time with customer.
+		4. Calling to one customer may be more than one time, all those should be attached to connect history of that customer.
+		5. Meeting to customer
+		- Take note every statement the customer said.
+		- Take note every requirement related to software product.
+		- Find out what is customer's resistance.
+		- Update result of that meeting, it is successful or fail.
+		- It should be better if at the meeting, all customer's requirements are resolved and he/she is satisfied with Kaspersky product as well as its feature.
+		6. Showing demo software to customer
+		- Working with IT officer to install and show demo software fit with customer's requirement.
+		- Have a meeting with customer to show demo software.
+		- Update result of showing demo software, it is successful or fail.
+		7. Discuss with sale manager for quotation of customer requirement.
+		- Quotations should meet customer's need and requirement.
+		- Price may depend on fame of customer and number of requirement option.
+		8. Send quotation to customer and get feedback
+		- Get feedback from customer
+		- May have a meeting with customer more to discuss about requirement, deliver time, etc.
+		- Update feedback from customer about quotation.
+		- Because Kaspersky brand is worldwide, the customer can search the price of the product easily and may consider before meeting stage.
+		9. Discuss with sale manager about contract and deliver time to that customer
+		- Based on quotation and customer feedback, make a report and send to sale manager.
+		- Sale manager is responsible for making the contract and send it to sale representative.
+		10. Sign contract with customer and closing the sale.
+		- Send contract to customer.
+		- Get contract from customer with signature
+		- Give that contract to sale manager
+		- Closing the sale.
+		
+	* Sale manager
+		1. Discuss with sale representative about quotation for customer's requirement
+		- Gather all sale representative's report about customer's information and requirement
+		- Make dicision about customer's quotation
+		2. Discuss with sale representative about customer's contract and deliver time
+		- Make a dicision about the contract and deliver time.
+		- Give that contract to sale representative to get customer's signature.
+		- Get the contract back and give it to sale director.
+		3. Create daily meeting/weekly meeting/monthly meeting with sale representative about all the problems in sale process.
+		4. Figure out how well every sale representative's performance is, does he/she follow sale steps.
+	
+	* Sale director
+		1. Get all sale contract from sale manager.
+		2. Figure out how well every sale manager's performance is at each sale branch.
+		
+	# Post-sale activities
+		
+	* Sale representative
+		1. Keep contact with customers for anything related to sale in the contract.
+		2. When the contract come to an end in the next few months, contact to customer again to help them renew the licence software.
+		
+	* Sale manager
+		1. Get feedback from customer for all sale activities of sale representative.
+		2. Figure out sale representative who may meet sale target and what should do with him/her.
+		3. Figure out sale representative who may not meet sale target, what is the most difficult stage and what should do with him/her.
+		4. May redistribute list prospect to all sale representative and reset sale target for each sale representative.
+		
+	* Sale director
+		1. View entire feedback from all customers at each sale branch.
+		2. Figure out sale manager who may meet sale target and what should do with him/her.
+		3. Figure out sale manager who may not meet sale target and what is the most difficult stage in entire sale process at that sale branch.
+		4. Decide to hire more sale representatives at some branches or fire out some members.
+		
+---
+
+## Chapter 2 - Details of the user profiles
+Please provide profile for **ALL** users of your system. 
+
+### [Sale representative]
+IT literacy: Good
+
+Frequency of using the software: Always
+
+Purpose of using the software: All sale activities such as qualify list prospect customer, prepare questions and answer before calling, take note, check event in working calendar, check sale state of all customers, etc.
+
+Situation of using the software: Pre-sale activities, sale activities and post-sale activities
+
+Describe what user expects.
+1. [Expectation] Effectively view list of all prospect customers in some kind of order (pre-sale)
+2. [Expectation] Easily search list of all prospect customers by some keyword (pre-sale)
+3. [Expectation] Create questions and anwers in advance before calling to the customer (pre-sale)
+4. [Expectation] Search questions quickly while calling to customer (sale)
+5. [Expectation] Display working time calendar as well as some important events on that such as calling, meeting or sign contract with customer (sale)
+6. [Expectation] Quickly search available time in working time calendar (sale)
+7. [Expectation] Each event to customer in working calendar can be marked as success or fail as well as comment (sale)
+8. [Expectation] Effective view list of all on-working customers and their sale status along with entire history sale (sale)
+9. [Expectation] Ask old customer whose licence coming to expire to renew Kaspersky software (post-sale)
+
+Your proposal to solve the object
+1. [Solution] List all prospect can be sorted by name, by type of company and by address.
+2. [Solution] There will be a search box above list all prospect to search anything in the list.
+3. [Solution] There will be option to create questions and answer. This information is private for each own sale representative. Each answer of each question will be mapped to some of BANT criteria, sale representative has to define this mapping in advance. There will be some sample questions about Kaspersky anti-virus prepared along with some reference about some famous organizations in the world are using Kaspersky.
+4. [Solution] There will be a text box and you can input any text then ENTER, it will search all questions and answer.
+5. [Solution] Each person will have own working time calendar and sale representative can only view his/her own calendar. On the working calendar, they can view important events as well as break time between two continuous events.
+6. [Solution] There will be a text box and you can input duration time then ENTER, it will check whether that time is available or not.
+7. [Solution] Each event connected to customer, such as calling, meeting, showing demo, send quotation and sign contract will have result and comment. The result will be success or fail.
+8. [Solution] Each sale representative can view list all his/her customers and its sale status. Those customers will be attached to its sale history, include all calling and meeting time.
+9. [Solution] Automatically alert all closing sale which has licence expiration in next few months to sale representative to ask them renew the software.
+
+### [Sale manager]
+IT literacy: Good
+
+Frequency of using the software: Always
+
+Purpose of using the software: View all sale activities of sale representative, measure and evaluate sale performance for each person, set sale target for each sale person and always check whether they could met sale target.
+
+Situation of using the software: Pre-sale activities, sale activities and post-sale activities
+
+Describe what user expects.
+1. [Expectation] Easily distribute long list of prospect customer to every sale representative (pre-sale)
+2. [Expectation] Set up sale target for all sale representative easily (pre-sale)
+3. [Expectation] Set the rule of selling (pre-sale)
+4. [Expectation] Provide some ways to easily comment and feedback from sale manager to sale representative (sale)
+5. [Expectation] Create daily/weekly/monthly meeting at specific time that all sale presentative should know about it (sale)
+6. [Expectation] It should privide some ways to view sale representative performance at all stage and how he/she move to right next step (sale)
+7. [Expectation] It should provide some ways to view what is strength and weeknesses of each sale representative in whole sale activities (post-sale)
+8. [Expectation] It support to shift some prospect from one sale representative to another easily (post-sale)
+
+Your proposal to solve the object
+1. [Solution] There will be an option to automatically distribute uniformly list of all prospect customers to all sale representative at first time. When each sale representative has working experience, the system will automatically distribute depend on each member's best performance.
+2. [Solution] For each sale representative, there will be an option to set sale target which contains number of closing sale, total sale volume and duration time.
+3. [Solution] Sale manager can set up rule of selling. For example, by sold product under 200$, we get 10% of the total order; by sold product from 200$ to 500$, we get 20% of the total order; and sold product above 500$, we get 30% of the order. And for each sale closing contract, sale representative has to keep at least 50$ as the basic cost for calling, email, electricity, etc, the remaining is considered as sale volume.
+4. [Solution] For each stage of sale, sale representative can notice to sale manager and then the manager can add comment and give it back.
+5. [Solution] Sale manager can create daily/weekly/monthly meeting and set all or some of sale representatives to attend. It will also show in working calendar of sale representative.
+6. [Solution] 
+    Define stage of each prospect customer as below  
+		- For those who has not been qualified yet, marked as NOT QUALIFIED.  
+		- For those who has been qualified but not contacted yet, marked as QUALIFIED.  
+		- For those who has been contacted by calling and/or email but they did not receive or they refused, marked as CALLED.  
+		- For those who has been received the call actively but they did not have a meeting yet, marked as CONNECTED.  
+		- For those who has a meeting at least once, marked as OPPORTUNITY. The reason here is that sale representative may have meeting with customer more than one time.  
+		- For those who has accept the solution and already seen demo software, marked as DEMO.  
+		- For those who has accept the quotation, marked as QUOTATION.  
+		- For those who has already accept and signed the contract, marked as DONE.  
+	By view stage transfer of each customer, the manager will know whether sale representative move right next step in entire sale activities.
+7. [Solution] Sale representative performance will be shown as graph describe ratio success/total of each stage so that the manager will know exactly at which stage he/she had difficulty.
+8. [Solution] For prospect NOT QUALIFIED, sale manager can shift some from one sale representative to another.
+
+### [Sale director]
+IT literacy: Good
+
+Frequency of using the software: Always
+
+Purpose of using the software: Set sale target for each sale branch, check sale progress and performance of all sale branches, view all feedback from customers, may reset sale target for each sale manager, get sale contract from sale manager.
+
+Situation of using the software: Pre-sale activities, sale activities and post-sale activities
+
+Describe what user expects.
+1. [Expectation] Set sale target for each sale manager at sale branch easily (pre-sale)
+2. [Expectation] View all sale contracts from all branches (sale)
+3. [Expectation] Easily show sale progress and performance of each sale branch (sale)
+4. [Expectation] Adjust number of sale member at sale branch as well as change sale target (post-sale)
+
+Your proposal to solve the object
+1. [Solution] There will be an option for sale director can set up sale target for each sale manager
+2. [Solution] Each sale manager can view only sale contract at his/her branch but sale director can view all sale contracts.
+3. [Solution] Sale progress will display graphically over each sale stage and the passed ratio at each stage.
+4. [Solution] From sale performance graph, it will show which branch is doing best, which is doing worst, where is overloaded and need more members and where should be cut off or shift member from one branch to another.
+
+---
+## Chapter 3 - Descriptions of each "Merit"
+
+### [Merit 2] Automatically uniform distribution from one list of many items to each person
+Who is benefited: Sale director, sale manager  
+Sale manager distribute list prospects to all sale representative (may be uniformly or not)
+Sale manager distribute total sale target to all sale representative (may be uniformly or not)
+Sale director distribute total sale target to all sale manager (may be uniformly on number of employee or not)
+All those cases there will be checkbox uniformly, if it is checked then the system will automatically distribute uniformly to each person. Otherwise, the user can manually distribute to each person.
+
+#### [Function 1 to achieve Merit] Sale manager can distribute uniformly list all prospects to each sale representative
+
+**Priority:** [High]  
+**Implemented:** [N]
+
+#### [Function 2 to achieve Merit] Sale director can distribute uniformly total sale target to each sale manager depend on number of employee
+
+**Priority:** [Medium]  
+**Implemented:** [N]
+
+#### [Function 3 to achieve Merit] Sale manager can distribute uniformly total sale target to each sale representative
+
+**Priority:** [Medium]  
+**Implemented:** [N]
+
+### [Merit 3] List all prospects can be sorted and searched by name, by type of company or by address
+Who is benefited: Sale representative  
+List all prospects will be shown as table and the user can sort by header columns as well as search on the textbox above the table
+
+#### [Function 1 to achieve Merit] List of all prospects is shown as table
+
+**Priority:** [High]  
+**Implemented:** [N]
+
+#### [Function 2 to achieve Merit] Sort elements in the table by header column
+
+**Priority:** [High]  
+**Implemented:** [N]
+
+#### [Function 3 to achieve Merit] There will be a Search textbox for easily searching elements in the table
+
+**Priority:** [High]  
+**Implemented:** [N]
+
+### [Merit 4] Input and store question and answer which is Y/N question or multi-choice question to prepare calling to customer
+Who is benefited: Sale representative  
+Sale representative should prepare all the questions and answer flow before calling. With different answer Y/N or multi-choice, the next question will be different and they can simulate all the conversation with customer in advance.
+Each sale representative may prepare different questions and they can only see those questions they have already filled.
+
+#### [Function 1 to achieve Merit] Create a form to input question and some answers follows format Y/N or multi-choices
+
+**Priority:** [High]  
+**Implemented:** [N]
+
+#### [Function 2 to achieve Merit] All those questions will be stored and attached to sale representative who create it.
+
+**Priority:** [High]  
+**Implemented:** [N]
+
+#### [Function 3 to achieve Merit] Fast switching questions while sale representative is calling the customer
+
+**Priority:** [Medium]  
+**Implemented:** [N]
+
+#### [Function 4 to achieve Merit] All those questions may be shown in tree graph to easily view
+
+**Priority:** [Low]  
+**Implemented:** [N]
+
+### [Merit 5] Mapping each question-answer to BANT criteria (Budget, Authority, Need, Timing)
+Who is benefited: Sale representative  
+All the questions prepared should be aimed to some of BANT criteria. Sale representative should define it in advance.
+
+#### [Function 1 to achieve Merit] Sale representative define each answer to some of BANT criterias and its level.
+
+**Priority:** [High]  
+**Implemented:** [N]
+
+#### [Function 2 to achieve Merit] After gathering all questions of each customer, BANT criteria will be shown as customer qualification
+
+**Priority:** [High]  
+**Implemented:** [N]
+
+### [Merit 6] Display working time calendar for each person
+Who is benefited: Sale representative, sale manager, sale director.  
+Each person should have their own working calendar. Sale director can make some event and add sale manager as attendant. Sale manager can make some event and add sale representative as attendant.
+
+#### [Function 1 to achieve Merit] There will be a tab on menu display own working calendar
+
+**Priority:** [High]  
+**Implemented:** [N]
+
+#### [Function 2 to achieve Merit] Sale director can make some events, for example monthly meeting, and add sale manager as attendant.
+
+**Priority:** [Medium]  
+**Implemented:** [N]
+
+#### [Function 3 to achieve Merit] Sale manager can make some events, for example weekly meeting, and add sale representative as attendant.
+
+**Priority:** [Medium]  
+**Implemented:** [N]
+
+#### [Function 4 to achieve Merit] Each person can add their own event on working calendar and write some notice or comment
+
+**Priority:** [High]  
+**Implemented:** [N]
+
+#### [Function 5 to achieve Merit] Everyone can check quickly whether duration time is available for him/her
+
+**Priority:** [High]  
+**Implemented:** [N]
+
+### [Merit 7] Display all events of each sale representative along with its result success or fail and comment
+Who is benefited: Sale representative  
+Everyday sale representative has to do a list of events such as calling, meeting, etc and they has to fill result of event as well as comment if any.
+
+#### [Function 1 to achieve Merit] For event already happened, its result will be shown in working calendar along with its comment if any
+
+**Priority:** [High]  
+**Implemented:** [N]
+
+#### [Function 2 to achieve Merit] For event in the future, only event's comment is shown.
+
+**Priority:** [Medium]  
+**Implemented:** [N]
+
+### [Merit 8] Display all customer deal stage status
+Who is benefited: Sale representative, sale manager, sale director  
+For easier keep track of customer deal through many stages, we define customer status as below.  
+    1. For those who has not been qualified yet, marked as NOT QUALIFIED.  
+	2. For those who has been qualified but not contacted yet, marked as QUALIFIED.  
+	3. For those who has been contacted by calling and/or email but they did not receive or they refused, marked as CALLED.  
+	4. For those who has been received the call actively but they did not have a meeting yet, marked as CONNECTED.  
+	5. For those who has a meeting at least once, marked as OPPORTUNITY. The reason here is that sale representative may have meeting with customer more than one time.  
+	6. For those who has accept the solution and already seen demo software, marked as DEMO.  
+	7. For those who has accept the quotation, marked as QUOTATION.  
+	8. For those who has already accept and signed the contract, marked as DONE.
+
+#### [Function 1 to achieve Merit] Sale representative can update event along with customer status if customer move to next step
+
+**Priority:** [High]  
+**Implemented:** [N]
+
+#### [Function 2 to achieve Merit] Show list customer along with customer's status in a vertical bar chart for sale representative easier view and make decision
+
+**Priority:** [Medium]  
+**Implemented:** [N]
+
+### [Merit 9] All customer contact history is saved and stored
+Who is benefited: Sale representative, sale manager, sale director  
+Some customer may need many times calling and meeting so that it's better to keep all history about them.
+
+#### [Function 1 to achieve Merit] Customer history is saved along with result of event
+
+**Priority:** [High]  
+**Implemented:** [N]
+
+#### [Function 2 to achieve Merit] Sale representation, sale manager and sale director can view all customer detail history
+
+**Priority:** [Medium]  
+**Implemented:** [N]
+
+### [Merit 10] Notice to sale representative about customer whose licence software will come to an end soon
+Who is benefited: Sale representative  
+Basically, contract between our company and customer specify how long the service support and when it comes to expire. System will notice to sale representative about all customer contracts which will expire in next 12 months so that sale representative can contact to customer again to renew the licence software.
+
+#### [Function 1 to achieve Merit] Sort all customer closing contracts by expiration date
+
+**Priority:** [High]  
+**Implemented:** [N]
+
+#### [Function 2 to achieve Merit] Display list of closing contracts which is sorted by expiration date to different color so that sale representative can easily notice
+
+**Priority:** [Medium]  
+**Implemented:** [N]
+
+### [Merit 11] Look like social network, sale representative can comment on an event or an customer deal then assign to sale manager to comment
+Who is benefited: Sale representative, sale manager  
+There are many stages in sale activities need discuss between sale representative and sale manager, how they can discuss and note to the system. This software will support many people can comment on an event or an customer deal and then assign to other person follows it.
+
+#### [Function 1 to achieve Merit] Sale representative can assign an event or an customer stage to his/her sale manager to get comment and decision
+
+**Priority:** [High]  
+**Implemented:** [N]
+
+#### [Function 2 to achieve Merit] Sale manager can write some comments on that event or stage and then assign back to sale representative
+
+**Priority:** [Medium]  
+**Implemented:** [N]
+
+### [Merit 12] Display sale performance of each sale representative as horizontal bar chart to easily view which stage is stuck and whether he/she can meet sale target
+Who is benefited: Sale manager, sale director  
+To measure sale performance of each sale representative, only the number of closing sale is not enough. Sale manager wants to know every stage in his/her sale activities and which stage is the most difficult for him/her. By showing each stage as a bar and stage next by stage then sale manager can easily figure out how performance of that sale representative in each stage.
+
+#### [Function 1 to achieve Merit] Show all stages in sale activities of sale representative and the ratio of success in each stage in a table data along with his/her sale target
+
+**Priority:** [High]  
+**Implemented:** [N]
+
+#### [Function 2 to achieve Merit] Show table data in Function 1 as horizontal bar chart (funnel shape)
+
+**Priority:** [High]  
+**Implemented:** [N]
+
+### [Merit 13] Display sale performance of all sale representative to easily compare their performance
+Who is benefited: Sale manager, sale director  
+Sale manager always wants to know performance of his/her members and compare among them. By showing each person's performance as a group of bars in a row then sale manager can easily see difference among them.
+
+#### [Function 1 to achieve Merit] Show each sale representative's performance as a group of bars in a row
+
+**Priority:** [High]  
+**Implemented:** [N]
+
+#### [Function 2 to achieve Merit] Show performance chart of all sale representatives
+
+**Priority:** [High]  
+**Implemented:** [N]
+
+### [Merit 14] Export and import excel file which get customer's feedback after sale closing
+Who is benefited: Sale manager  
+Basically, measure sale performance of sale representative not only depend on each stage of sale activities but also from customer's feedback. By some ways, sale manager can get all customer feedback in an excel file and then import it to the system so that he/she can easily view how well his/her member has done.
+
+#### [Function 1 to achieve Merit] Export template excel file to customer's feedback
+
+**Priority:** [High]  
+**Implemented:** [N]
+
+#### [Function 2 to achieve Merit] After that excel file is filled in, import it to the system and it will automatically attach to each sale deal and customer.
+
+**Priority:** [High]  
+**Implemented:** [N]
+
+### [Merit 15] Show performance of entire sale branch and compare among other sale branches
+Who is benefited: Sale director  
+Sale director wants to check sale performance of every branches, basically branch sale result equals to sum of all member sale result. But more than that, sale director also wants to check performance of all sale managers and how they lead sale team. This indicator is described by how effective the whole sale team has improve. By sum up all success ratio of all members in sale team every day, every week and every month, if sale manager has done good job, that indicator should go better.
+
+#### [Function 1 to achieve Merit] Show total sale activities of all members in a sale team and the success ratio as indicator in a chart
+
+**Priority:** [High]  
+**Implemented:** [N]
+
+#### [Function 2 to achieve Merit] Show that indicator mentioned in function 1 over a time period, such as weekly, monthly or yearly
+
+**Priority:** [High]  
+**Implemented:** [N]
+---
+
+## Chapter 4 - ReadMe
+
+[This will serve as a guide to the users of your system]
+
+---
+
+## Chapter 5 - Improvement Content List
+
+#### Correspondence 2
+**Date:** [27 - Jan - 2016]
+
+**Feedback:** 
+- [Feedback] There are not enough and limited sale activities
+- [Feedback] Merits do not fullfill described business problems and expectations
+
+**Result:**
+- [Improvement] This Catalog has changed business model and focus on B2B and there are many sale activities described in chapter 1 and chapter 2
+- [Improvement] All merits in chapter 3 based on problem in sale activities and user expectations
